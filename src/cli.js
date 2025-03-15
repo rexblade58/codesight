@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env node
+#!/usr/bin/env node
 
 var analyze = require('./index').analyze;
 var path = require('path');
