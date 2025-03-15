@@ -1,0 +1,1 @@
+﻿{ "name": "codesight", "version": "0.1.0", "description": "Code quality analyzer", "main": "src/index.js", "bin": { "codesight": "./src/cli.js" }, "license": "MIT" }
